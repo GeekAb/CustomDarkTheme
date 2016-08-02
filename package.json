@@ -1,0 +1,15 @@
+{
+    "name": "Custom Dark Theme",
+    "title": "custom-dark-theme",
+    "description": "A dark theme",
+    "homepage": "",
+    "version": "1.0.0",
+    "author": "Abhishek Srivastava nit.abhi85@gmail.com",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
