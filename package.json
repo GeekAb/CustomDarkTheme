@@ -7,7 +7,7 @@
     "author": "Abhishek Srivastava nit.abhi85@gmail.com",
     "license": "MIT",
     "theme": {
-        "file": "theme.less",
+        "file": "main.less",
         "dark": true,
         "addModeClass": true
     },
